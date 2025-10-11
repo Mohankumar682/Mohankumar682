@@ -1,6 +1,6 @@
 <div align="center">
 
-![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev5/Elango)
+![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev5/MohankumarS)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -23,9 +23,9 @@
 ## 🎨 About Me
 
 ```python
-class ElangoE:
+class Mohankumar:
     def __init__(self):
-        self.name = "Elango E"
+        self.name = "Mohankumar S"
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.location = "India 🇮🇳"
         self.education = "B.E. CSE (Specialization in AI & ML)"
@@ -289,7 +289,7 @@ while (alive) {
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sabariyuhendh/sabariyuhendh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mohankumar682/Mohankumar682/output/github-snake.svg" />
 </picture>
 </div>
 
