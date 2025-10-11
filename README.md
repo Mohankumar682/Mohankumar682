@@ -1,6 +1,6 @@
 <div align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Luminance%20🌻&width=800&height=400)](https://github.com/Mohankumar682/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=MohankumarS%20&color=green&width=800&height=400)](https://github.com/Mohankumar682/svg-banners)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
