@@ -192,7 +192,7 @@ Explore additional work:
 ### 💻 LeetCode Profile
 
 <a href="https://leetcode.com/u/MohanKumar682/">
-  <img src="https://leetcard.jacoblin.cool/ELANGO_E?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/MohanKumar682?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
 
 <a href="https://leetcode.com/u/MohanKumar682/" target="_blank">
