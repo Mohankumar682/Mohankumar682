@@ -195,7 +195,7 @@ Explore additional work:
   <img src="https://leetcard.jacoblin.cool/ELANGO_E?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
 </a>
 
-<a href="https://leetcode.com/u/ELANGO_E/" target="_blank">
+<a href="https://leetcode.com/u/MohanKumar682/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
@@ -220,7 +220,7 @@ Explore additional work:
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <a href="https://www.codechef.com/users/elango_e" target="_blank">
+      <a href="https://www.codechef.com/users/mohan_kumar03" target="_blank">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
       </a>
     </td>
