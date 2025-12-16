@@ -20,7 +20,7 @@
 
 ---
 
-## 🎨 About Me
+## About Me
 
 ```python
 class Mohankumar:
@@ -47,7 +47,7 @@ class Mohankumar:
 <tr>
 <td width="60%">
 
-### 🎯 What Drives Me
+### What Drives Me
 
 - Building AI systems that create **real-world impact**
 - Bridging the gap between **research and production**
@@ -63,11 +63,12 @@ class Mohankumar:
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding" />
 
-### 🎮 When I'm Not Coding
+###  When I'm Not Coding
 ```diff
-+ Binge-watching anime
++ Binge-watching movies
 + Hanging out with friends
 + Experimenting in the kitchen
++ Cooking in gym
 + Eating delicious food
 ```
 
@@ -77,7 +78,7 @@ class Mohankumar:
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <details open>
 <summary><b>🤖 AI & Machine Learning</b></summary>
@@ -131,13 +132,13 @@ class Mohankumar:
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🐄 Cattle Health AI System
+###  Cattle Health AI System
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=Cattle_Health_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/Cattle_Health_App)
 
 **🔹 AI-powered disease detection**  
@@ -146,7 +147,7 @@ Early detection system using deep learning and computer vision.
 </td>
 <td width="50%">
 
-### 🎤 IdentiVoice
+###  IdentiVoice
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=IdentiVoice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/IdentiVoice)
 
 **🔹 Advanced voice recognition**  
@@ -157,7 +158,7 @@ Real-time audio processing with multi-language support.
 <tr>
 <td width="50%">
 
-### 💻 C-D-Assist
+###  C-D-Assist
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=C-D-Assist&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/C-D-Assist)
 
 **🔹 Intelligent coding assistant**  
@@ -181,7 +182,7 @@ Explore additional work:
 
 ---
 
-## 🏆 Coding Platforms & Statistics
+##  Coding Platforms & Statistics
 
 <div align="center">
 
@@ -189,7 +190,7 @@ Explore additional work:
 <tr>
 <td width="50%" valign="top">
 
-### 💻 LeetCode Profile
+###  LeetCode Profile
 
 <a href="https://leetcode.com/u/MohanKumar682/">
   <img src="https://leetcard.jacoblin.cool/MohanKumar682?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
@@ -202,7 +203,7 @@ Explore additional work:
 </td>
 <td width="50%" valign="top">
 
-### 🍳 CodeChef Profile
+###  CodeChef Profile
 
 <table align="center">
   <tr>
@@ -227,7 +228,7 @@ Explore additional work:
   </tr>
 </table>
 
-### 🎯 Codolio
+###  Codolio
 
 <a href="https://codolio.com/profile/Elango" target="_blank">
   <img src="https://img.shields.io/badge/Codolio-Active%20Profile-8B5CF6?style=for-the-badge" alt="Codolio" />
@@ -237,7 +238,7 @@ Explore additional work:
 </tr>
 </table>
 
-### 🎯 Coding Philosophy
+###  Coding Philosophy
 
 ```javascript
 while (alive) {
@@ -252,7 +253,7 @@ while (alive) {
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -283,7 +284,7 @@ while (alive) {
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <div align="center">
   <picture>
