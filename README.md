@@ -40,7 +40,7 @@ class Mohankumar:
         ]
 
     def get_daily_routine(self):
-        return "Code 💻 → Solve Problems 🧩 → Learn 📚 → Repeat 🔄"
+        return "Code → Solve Problems → Learn → Repeat"
 ```
 
 <table>
@@ -54,9 +54,9 @@ class Mohankumar:
 - Contributing to **open-source** and helping others learn
 - Exploring the intersection of **technology and social good**
 
-🔭 Currently working on AI-powered solutions for **agriculture** and **healthcare**  
-🌱 Learning advanced **MLOps**, **Computer Vision**, and **Voice Recognition**  
-⚡ Fun fact: I debug code faster than I can decide what anime to watch next!
+ Currently working on AI-powered solutions for **agriculture** and **healthcare**  
+ Learning advanced **MLOps**, **Computer Vision**, and **Voice Recognition**  
+ Fun fact: I debug code faster than I can decide what anime to watch next!
 
 </td>
 <td width="40%">
@@ -81,7 +81,7 @@ class Mohankumar:
 ## Tech Arsenal
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>AI & Machine Learning</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -94,7 +94,7 @@ class Mohankumar:
 </details>
 
 <details open>
-<summary><b>💻 Development & Frameworks</b></summary>
+<summary><b>Development & Frameworks</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -107,7 +107,7 @@ class Mohankumar:
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -118,7 +118,7 @@ class Mohankumar:
 </details>
 
 <details open>
-<summary><b>🔧 Other Tools & Languages</b></summary>
+<summary><b> Other Tools & Languages</b></summary>
 <br/>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -141,7 +141,7 @@ class Mohankumar:
 ###  Cattle Health AI System
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=Cattle_Health_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/Cattle_Health_App)
 
-**🔹 AI-powered disease detection**  
+** AI-powered disease detection**  
 Early detection system using deep learning and computer vision.
 
 </td>
@@ -150,7 +150,7 @@ Early detection system using deep learning and computer vision.
 ###  IdentiVoice
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=IdentiVoice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/IdentiVoice)
 
-**🔹 Advanced voice recognition**  
+** Advanced voice recognition**  
 Real-time audio processing with multi-language support.
 
 </td>
@@ -161,18 +161,18 @@ Real-time audio processing with multi-language support.
 ###  C-D-Assist
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=C-D-Assist&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/C-D-Assist)
 
-**🔹 Intelligent coding assistant**  
+** Intelligent coding assistant**  
 Automates tasks and boosts developer productivity by 40%.
 
 </td>
 <td width="50%">
 
-### 🔗 More Projects
+###  More Projects
 
 Explore additional work:
-- 📊 Data Analytics Dashboards
-- 🎮 Game Development
-- 🌐 Web Applications
+-  Data Analytics Dashboards
+-  Game Development
+-  Web Applications
 
 [![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohankumar682?tab=repositories)
 
@@ -291,7 +291,7 @@ while (alive) {
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -307,13 +307,13 @@ while (alive) {
 
 <br/><br/>
 
-### 💭 Quote of the Day
+###  Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 
 <br/><br/>
 
-### 💡 Today's Random Dev Joke
+### Today's Random Dev Joke
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
@@ -321,12 +321,12 @@ while (alive) {
 
 ---
 
-### ✨ "Learning today, building tomorrow."
+### "Learning today, building tomorrow."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
-**⭐ If you find my work interesting, feel free to star my repositories!**
+** If you find my work interesting, feel free to star my repositories!**
 
-*Made with ❤️ by [Mohankumar](https://github.com/Mohankumar682)*
+*Made with by [Mohankumar](https://github.com/Mohankumar682)*
 
 </div>
